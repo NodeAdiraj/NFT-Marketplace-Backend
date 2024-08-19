@@ -51,7 +51,7 @@ Copy code
 npm start
 Usage
 
-The backend runs on http://localhost:5000 by default. You can interact with the API using tools like Postman or through your frontend application.
+The backend runs on sepolia testnet by default. You can interact with the API using tools like Postman or through your frontend application.
 API Endpoints
 
 User Endpoints
